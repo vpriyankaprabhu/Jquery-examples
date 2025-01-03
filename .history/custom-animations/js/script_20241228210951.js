@@ -1,0 +1,4 @@
+$(function() {
+  
+  $(".bluw-box").animate()
+});
